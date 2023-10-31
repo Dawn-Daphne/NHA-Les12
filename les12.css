@@ -1,0 +1,70 @@
+header {
+    background-color: #8D8D8D;
+    text-align: center;
+
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+table {
+    position: relative;
+    left: 500px;
+}
+
+td {
+    text-align: center;
+    height: 175px; 
+    width: 175px;
+    color: antiquewhite;
+}
+
+td.geel {
+    background-color: #FFEE00;
+    color: black;
+}
+
+td.zongeel {
+    background-color: #FFB700;
+    color: black;
+}
+
+td.oranje {
+    background-color: #FF9100;
+}
+
+td.rood {
+    background-color: #FF0000;
+}
+
+td.paars {
+    background-color: #7C00BF;
+}
+
+td.kobalt-blaauw {
+    background-color: #2A0C75;
+}
+
+td.blaauw {
+    background-color: #0000FF;
+}
+
+td.turquoise {
+    background-color: #00FFD5;
+    color: black;
+}
+
+td.img {
+    height: 200px;
+    width: 200px;
+}
+
+footer {
+    background-color: #8D8D8D;
+    text-align: center;
+}
